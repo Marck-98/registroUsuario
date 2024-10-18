@@ -2,5 +2,9 @@
   "test@example.com": {
     "name": "Test User",
     "password": "12345"
+  },
+  "marcos@gmail.com": {
+    "name": "Marcos",
+    "password": "12345"
   }
 }
